@@ -45,7 +45,7 @@ GAI usage in workflows involving sensitive client data must be transparent to cl
 
 ### Environmental responsibility
 
-We are mindful of the environmental impact of generative AI tools. We commit to choosing environmentally responsible AI options and considering sustainability in our technology decisions.
+We are mindful of the environmental impact of generative AI tools. We commit to choosing environmentally responsible AI options and considering sustainability in our technology decisions. This does not suggest that we avoid the use of GIA based on envrionmental impact.
 
 ### Risk Awareness and mitigation
 
@@ -70,16 +70,16 @@ GAI tools cannot be used to generate or modify content in ways that harm others,
 - Only authorized GAI tools can be used for client work. Examples include:
   - Generating, evaluating, or analyzing code, including snippets or samples, included in any in-progress or complete client deliverables
   - Evaluating or analyzing any content provided by a client, including site databases, PDFs, and other documents
-  - Generating, evaluating, or analyzing content that is considered part of our work product or client deliverable, including working documents, reports, virtual whiteboards, etc.
+  - Generating, evaluating, or analyzing content that is considered part of our work product or client deliverable, including working documents, reports, virtual whiteboards, presentations, etc.
   - Generating images or videos that are provided in client deliverables, such as audience personas
+  - Developing sales and marketing materials for ThinkShout
+  - Developing internally-facing company documentation and communication
 
 - Team members may use non-authorized GAI tools for personal skill-building and experimentation, provided such usage does not involve client or proprietary company data and is aligned with organizational goals and policies. Examples include:
   - Experimenting to learn the capabilities of new GAI models
   - Developing new products that leverage GAI models, with the knowledge and consent of the Systems and Infrastructure team (see "Authorized GAI tools and vendors")
   - Generating, evaluating, or analyzing publicly available or personal data for professional development purposes
   - Using a GAI as a personal coach
-  - Developing sales and marketing materials for ThinkShout
-  - Developing internally-facing company documentation and communication
 
 - ThinkShout will disclose the use of GAI tools in its contracts. Before utilizing GAI tools for client work, team members must:
   - Review any relevant Systems & Infrastructure documentation.
