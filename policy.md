@@ -1,16 +1,15 @@
 # Generative AI Policy
 
-This document outlines the principles, rules, and processes governing the use of Generative AI (GAI) tools and serves as a foundation for responsible GAI integration into ThinkShout's operations.
+This document outlines the principles, rules, and processes governing the use of Generative AI (GAI) tools and serves as a foundation for responsible GAI integration into ThinkShout's operations. This policy applies to all ThinkShout employees and contractors.
 
 The purpose of this policy is to provide clear guidance on the ethical, safe, and effective use of Generative AI (GAI) tools by team members at ThinkShout. As GAI technologies continue to evolve, we aim to:
 
-- Ensure that GAI tools support and enhance human capabilities.
+- Use GAI tools to maximize the capabilities of human resources, not replace them.
 - Protect company, client, and sensitive data from misuse.
 - Promote transparency, accountability, and ethical use in all GAI-assisted workflows.
 - Minimize risks associated with GAI tools, such as inaccurate outputs, security vulnerabilities, or ethical concerns.
-- Maintain the trust of our clients and team members in all aspects of our work.
-
-This policy applies to all ThinkShout employees and contractors, as well as any other individuals who use GAI tools in the context of ThinkShout's business operations, client work, or internal projects.
+- Encourage standardization and adoption of GAI tools, avoiding individual and group silos.
+- Ensure our clients fully realize the benefits of GAI tools.
 
 ## Definitions
 
